@@ -1,6 +1,6 @@
 # Origins Generator Service
 
-Dockerfile for the Origins generator service.
+Dockerfile for the [Origins generator service](https://github.com/chop-dbhi/origins-generator-service/).
 
 ## Usage
 
