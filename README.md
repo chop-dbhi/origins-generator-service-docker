@@ -7,5 +7,5 @@ Dockerfile for the Origins generator service.
 Exposes port 5000.
 
 ```
-docker run -d -p 5000:5000 bruth/origins-generators
+docker run -d -p 5000:5000 bruth/origins-generator-service
 ```
