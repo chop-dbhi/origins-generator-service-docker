@@ -7,5 +7,5 @@ Dockerfile for the [Origins generator service](https://github.com/chop-dbhi/orig
 Exposes port 5000.
 
 ```
-docker run -d -p 5000:5000 bruth/origins-generator-service
+docker run -d -p 5000:5000 dbhi/origins-generator-service
 ```
